@@ -1,0 +1,12 @@
+*~
+.DS_Store
+Pods/
+xcuserdata/
+*.xccheckout
+*.pbxuser
+*.perspectivev3
+*.xcscmblueprint
+.build/
+*.mode1v3
+!default.perspectivev3
+build
