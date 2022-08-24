@@ -20,13 +20,14 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        /*
         // developement purpose only
         credential.username = "admin"
         credential.password = "admin"
         txtFieldUsername.text = self.credential.username
         txtFieldPassword.text = self.credential.password
         //---------------
+        */
         
         prepareViewModel()
     }
