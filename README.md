@@ -1,8 +1,5 @@
 # Karoooo
-
-Interviewee’s name: Jignesh Vadadpriya
-
-Interviewee’s email: jiks008@gmail.com
+MVVM Demo
 
 
 # Application login credentials
